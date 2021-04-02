@@ -1,6 +1,9 @@
 # Source Code of Paper: "A Multi-View SVM Approach for Seizure Detection from Single Channel EEG signals"
 The Repository contains source code of accepted paper: "A Multi-View SVM Approach for Seizure Detection from Single Channel EEG signals" IETE Journal of Research, DOI: https://doi.org/10.1080/03772063.2021.1913074. This Article will be online soon.
 
+**Cite this Article:** Gopal Chandra Jana, Sai Praneeth Mogullapally & Anupam Agrawal"A Multi-View SVM Approach for Seizure Detection from Single Channel EEG signals" IETE Journal of Research, 2021, Vol. XX, No. XX, pp. XXX-XXX, DOI: https://doi.org/10.1080/03772063.2021.1913074.
+**Cite this code:** [![DOI](https://zenodo.org/badge/354001516.svg)](https://zenodo.org/badge/latestdoi/354001516)
+
 
 Read Me
                 Multi-view SVM for seizure detection
